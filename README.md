@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Go<br>🎯 Goals: Expand my technical skills</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Linux<br>🎯 Goals: Expand my technical skills</p>
 
 ###
 
